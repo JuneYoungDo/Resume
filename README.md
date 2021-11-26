@@ -1,4 +1,4 @@
-# 도준영
+# 도준영 (Tory)
 Back-end(Spring), Algorithm을 공부하고 있습니다.
 
 #### 개인 정보
