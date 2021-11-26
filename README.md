@@ -22,6 +22,11 @@ Back-end(Spring), Algorithm을 공부하고 있습니다.
   + Spring 학습 및 프로젝트 수행
 
 ### MakeUs
-* [MakeUs_CMC](https://makeus.in/) 8th Server Part
+* [MakeUs](https://makeus.in/) CMC 8th Server Part
+
   + 2021.09 ~ 진행중
-  + Spring을 이용한 청소년용 동영상 플랫폼 프로젝트 진행중
+  + Spring을 이용한 청소년용 동영상 플랫폼 개발 중
+
+## 프로젝트
+
+
